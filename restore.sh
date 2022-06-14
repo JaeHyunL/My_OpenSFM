@@ -1,4 +1,4 @@
-#/bin/bash
+#/bin/sh
 
 pip install JinJa2==2.10.1
 pip install markupsafe==1.1.1
